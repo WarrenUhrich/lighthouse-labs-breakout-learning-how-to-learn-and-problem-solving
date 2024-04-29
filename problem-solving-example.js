@@ -6,7 +6,6 @@
  * 3) Plan the PROCESSING
  */
 
-
 /**
  * Sum array of numbers.
  * 
@@ -24,7 +23,6 @@ const sumArrOfNums = function(numArr) {
         sum = sum + num;
     }
     
-
     return Number(sum);
 }
 
