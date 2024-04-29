@@ -5,6 +5,30 @@
 * [X] Learning Cycle
 * [X] Problem Solving
 
+## How to run this Example?
+
+```sh
+# Navigate to your user directory
+cd ~
+
+# Navigate to your projects directory
+cd lighthouse-labs
+
+# Clone this project to your computer
+git clone git@github.com:WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout.git
+
+# Enter the project directory
+cd lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout
+
+# Switch to this branch
+git checkout 2024.04.29-web-immersive-national-29april2024
+
+# Run the example question
+node problem-solving-example.js
+```
+
+## How to Learn Computer Programming 
+
 ![How to Learn Computer Programming](https://github.com/WarrenUhrich/lighthouse-labs-learning-how-to-learn-and-problem-solving-breakout/blob/2022.12.13-web-flex-all-cohorts/assets/01-how-to-learn-computer-programming.png?raw=true)
 
 ## The Learning Cycle
